@@ -21,6 +21,30 @@ a {
 
 }
 
+.zero {
+    text-decoration: none;
+
+    padding: 2%;
+    border-radius: 10px;
+    display: flex;
+
+    position: absolute;
+    top: 4px;
+    left: 16px;
+    transform: translate(-50%, -50%);
+}
+
+.zero a {
+    background-color: transparent;
+    border-radius: 10px;
+    margin-right: 2px;
+}
+
+.zero a:hover {
+    color: yellow;
+    background-color: aqua;
+}
+
 .second {
     display: flex;
     padding-top: 10%;

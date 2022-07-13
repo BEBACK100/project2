@@ -1,0 +1,197 @@
+.one {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.one-text {
+    font-size: 20px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    text-decoration: none;
+    background-color: yellow;
+    padding: 2%;
+    border-radius: 30px;
+    margin-top: 10%;
+
+}
+
+.second {
+    display: flex;
+    padding-top: 10%;
+}
+
+.two {
+    padding: 5%;
+    text-align: center;
+}
+
+#two-text {
+    font-size: 40px;
+    color: aqua;
+
+}
+
+.two-video {
+    padding-top: 5%;
+    margin-right: 20px;
+}
+
+.three {
+    padding: 5%;
+    text-align: center;
+}
+
+.Third {
+    padding-top: 30%;
+    display: flex;
+    margin-right: 5%;
+}
+
+.four {
+    text-align: center;
+    padding: 5%;
+    margin: 5%;
+}
+
+.fifth {
+    padding: 10%;
+}
+
+.five-card-1 p {
+    padding-left: 10%;
+    margin-left: 8%;
+}
+
+.five-card-2 p {
+    padding-left: 10%;
+    margin-left: 8%;
+}
+
+.five-card-3 p {
+    padding-left: 10%;
+    margin-left: 8%;
+}
+
+.five-card-4 p {
+    padding-left: 10%;
+    margin-left: 8%;
+}
+
+.five-card-1 h3 {
+    padding-left: 5%;
+}
+
+.five-card-2 h3 {
+    padding-left: 5%;
+}
+
+.five-card-3 h3 {
+    padding-left: 5%;
+}
+
+.five-card-4 h3 {
+    padding-left: 5%;
+}
+
+.five-card-1 {
+    background-color: bisque;
+    padding: 5%;
+    margin-right: 5%;
+}
+
+#fifth-1 {
+    display: flex;
+}
+
+#fifth-2 {
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.five-card-2 {
+    background-color: bisque;
+    padding: 5%;
+}
+
+.five-card-3 {
+    background-color: bisque;
+    padding: 5%;
+
+}
+
+.five-card-4 {
+    background-color: bisque;
+    padding: 5%;
+    margin-left: 5%;
+}
+
+.six-pic {
+    display: flex;
+}
+
+.sixth img {
+    border: 5px solid red;
+    border-radius: 5%;
+    margin-left: 8%;
+}
+
+.seventh {
+    text-align: center;
+}
+
+.seventh h1 {
+    color: blue;
+    font-size: 30px;
+}
+
+.eight {
+    display: flex;
+}
+
+.fig1 {
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 2px 12px;
+}
+
+.fig2 {
+    border: 5px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 2px 12px;
+}
+
+.fig1 footer {
+    font-size: 30px;
+}
+
+.fig2 footer {
+    font-size: 30px;
+}
+
+.fig3 footer {
+    font-size: 30px;
+}
+
+.fig3 {
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 3px 2px 12px;
+}
+
+.foot {
+    background-color: rgb(10, 10, 212);
+    padding: 10px;
+    margin: 8px;
+    text-align: center;
+
+}

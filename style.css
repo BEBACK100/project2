@@ -34,11 +34,8 @@ a {
     transform: translate(-50%, -50%);
 }
 
-.zero a {
-    background-color: transparent;
-    border-radius: 10px;
-    margin-right: 2px;
-}
+
+
 
 .zero a:hover {
     color: yellow;
